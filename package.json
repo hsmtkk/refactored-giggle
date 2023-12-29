@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^20.10.5",
-    "axios": "^1.6.3"
+    "axios": "^1.6.3",
+    "https-proxy-agent": "^7.0.2"
   }
 }
